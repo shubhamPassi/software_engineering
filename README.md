@@ -7,8 +7,8 @@
     -   [**Table of Contents**](#table-of-contents)
 
         -   [Introduction](#introduction)
-        -   [Software is Developed not Manufactured](#software_is_developed_not_Manufactured)
-        -   [Software Development Life Cycle](#software_development_life_cycle)
+        -   [Software is Developed not Manufactured](#software-is-developed-not-Manufactured)
+        -   [Software Development Life Cycle](#software-development-life-cycle)
         -   [Objects and Data Structures](#objects-and-data-structures)
         -   [Classes](#classes)
         -   [SOLID](#solid)
