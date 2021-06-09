@@ -6,17 +6,17 @@
 
     -   [**Table of Contents**](#table-of-contents)
 
-    -   [Introduction](#introduction)
-    -   [Variables](#variables)
-    -   [Functions](#functions)
-    -   [Objects and Data Structures](#objects-and-data-structures)
-    -   [Classes](#classes)
-    -   [SOLID](#solid)
-    -   [Testing](#testing)
-    -   [Concurrency](#concurrency)
-    -   [Error Handling](#error-handling)
-    -   [Formatting](#formatting)
-    -   [Comments](#comments)
+        -   [Introduction](#introduction)
+        -   [Variables](#variables)
+        -   [Functions](#functions)
+        -   [Objects and Data Structures](#objects-and-data-structures)
+        -   [Classes](#classes)
+        -   [SOLID](#solid)
+        -   [Testing](#testing)
+        -   [Concurrency](#concurrency)
+        -   [Error Handling](#error-handling)
+        -   [Formatting](#formatting)
+        -   [Comments](#comments)
 
 ### `Introduction`
 
