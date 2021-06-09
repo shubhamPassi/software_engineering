@@ -8,7 +8,7 @@
 
         -   [Introduction](#introduction)
         -   [Software is Developed not Manufactured](#software_is_developed_not_Manufactured)
-        -   [Software Development Life Cycle (SDLC)](<#software_development_life_cycle_(sdlc)>)
+        -   [Software Development Life Cycle](#software_development_life_cycle)
         -   [Objects and Data Structures](#objects-and-data-structures)
         -   [Classes](#classes)
         -   [SOLID](#solid)
@@ -45,7 +45,7 @@ Software has NO physical form. It is computer code, instructions for an operatin
 
 **[⬆ back to top](#table-of-contents)**
 
-### `Software Development Life Cycle (SDLC)`
+### `Software Development Life Cycle`
 
 Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality software. The SDLC aims to produce a high-quality software that meets customer expectations, reaches completion within times and cost estimates.
 
