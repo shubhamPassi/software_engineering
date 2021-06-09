@@ -7,8 +7,8 @@
     -   [**Table of Contents**](#table-of-contents)
 
         -   [Introduction](#introduction)
-        -   [Variables](#variables)
-        -   [Functions](#functions)
+        -   [Software is Developed not Manufactured](#software_is_developed_not_Manufactured)
+        -   [Software Development Life Cycle (SDLC)](<#software_development_life_cycle_(sdlc)>)
         -   [Objects and Data Structures](#objects-and-data-structures)
         -   [Classes](#classes)
         -   [SOLID](#solid)
@@ -31,3 +31,43 @@ Why Software engineering?
 3. Reliability factors.
 
 Main Principal: The Vision must be clear.
+
+**[⬆ back to top](#table-of-contents)**
+
+### `Software is Developed not Manufactured`
+
+Why Software is Developed or Engineered, not Manufactured?
+
+Answer:
+Saying that something is manufactured means that it is created, 'from the ground up', from nothing. And that certain chemical/physical processes are used to create it.
+
+Software has NO physical form. It is computer code, instructions for an operating system (something else without physical form). A computer program is kind of like a story, something else without physical form. Although it is easy to memorize a short story, it is darn near impossible to memorize computer code. People who write computer programs use nothing of a physical process to create the software. They simply use words/letters to create the code. The finished code is called 'software'. Sometimes the software is an operating system, a program, a widget, or simply 'code'.
+
+**[⬆ back to top](#table-of-contents)**
+
+### `Software Development Life Cycle (SDLC)`
+
+Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality software. The SDLC aims to produce a high-quality software that meets customer expectations, reaches completion within times and cost estimates.
+
+1. Planning and Requirement Analysis.
+2. Defining Requirements
+    - SRS
+3. Designing the Product Architecture
+    - meta-data and data dictionaries,
+    - logical diagrams,
+    - data-flow diagrams
+4. Building or Developing the Product
+    - Coding
+5. Testing the Product
+6. Deployment in the Market and Maintenance.
+
+SDLC Models
+There are various software development life cycle models defined and designed which are followed during the software development process.
+
+    - Waterfall Model
+    - Iterative Model
+    - Spiral Model
+    - V-Model
+    - Big Bang Model
+
+**[⬆ back to top](#table-of-contents)**
