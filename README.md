@@ -49,6 +49,8 @@ Software has NO physical form. It is computer code, instructions for an operatin
 
 Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality software. The SDLC aims to produce a high-quality software that meets customer expectations, reaches completion within times and cost estimates.
 
+![](software-lifecycle.png)
+
 1. Planning and Requirement Analysis.
 2. Defining Requirements
     - SRS
