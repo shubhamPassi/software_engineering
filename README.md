@@ -124,7 +124,7 @@ Disadvantages:
 
 ### `Iterative Model`
 
-![](itrative-model.png)
+![](iterative-model.png)
 
 Iterative Model:
 In iterative model the organization start with some of the software specification and develop the first version of the software. After the first version if there is a need to change the software then a new version of the software is created with a new iteration.
