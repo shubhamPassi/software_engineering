@@ -10,7 +10,7 @@
         -   [Software is Developed not Manufactured](#software-is-developed-not-Manufactured)
         -   [Software Development Life Cycle](#software-development-life-cycle)
         -   [Waterfall Model](#waterfall-model)
-        -   [Classes](#classes)
+        -   [Iterative Model](#iterative-model)
         -   [SOLID](#solid)
         -   [Testing](#testing)
         -   [Concurrency](#concurrency)
@@ -119,3 +119,34 @@ Disadvantages:
 4. Poor model for long and ongoing projects.
 5. It is difficult to measure progress within stages.
 6. Cannot accommodate changing requirements.
+
+**[⬆ back to top](#table-of-contents)**
+
+### `Iterative Model`
+
+![](itrative-model.png)
+
+Iterative Model:
+In iterative model the organization start with some of the software specification and develop the first version of the software. After the first version if there is a need to change the software then a new version of the software is created with a new iteration.
+It will repeat until deployment of the software.
+
+When to use iterative model:
+
+1. Requirements of the complete system are clearly defined and understood.
+2. When the project is big.
+3. Major requirements must be defined; however, some details can evolve with time.
+
+Advantages of Iterative model:
+
+1. Generates working software quickly and early during the software life cycle.
+2. Easier to test and debug during a smaller iteration.
+3. Easier to manage risk because risky pieces are identified and handled during its iteration.
+4. Each iteration can be easily managed.
+
+Disadvantages of Iterative model:
+
+1. It is not suitable for smaller projects.
+2. It is not suitable for changing requirements.
+3. More management Attention is required.
+
+**[⬆ back to top](#table-of-contents)**
