@@ -11,7 +11,7 @@
         -   [Software Development Life Cycle](#software-development-life-cycle)
         -   [Waterfall Model](#waterfall-model)
         -   [Iterative Model](#iterative-model)
-        -   [SOLID](#solid)
+        -   [SDLC Spiral Model](#sdlc-spiral-model)
         -   [Testing](#testing)
         -   [Concurrency](#concurrency)
         -   [Error Handling](#error-handling)
@@ -150,3 +150,62 @@ Disadvantages of Iterative model:
 3. More management Attention is required.
 
 **[⬆ back to top](#table-of-contents)**
+
+### `SDLC Spiral Mode`
+
+SDLC Spiral Model
+
+![](spiral-model.png)
+
+1. Spiral model is one of the most important Software Development Life Cycle models.
+2. This model was first described by Barry Boehm in 1986.
+3. Spiral Model can handle large amount of risk.
+4. The spiral model has four phases:
+    - Planning
+    - Risk Analysis
+    - Development & Testing
+    - Evaluation.
+5. In its diagrammatic representation, it looks like a spiral.
+
+PLANNING: Requirements are gathered from the customers and the objectives are identified,
+and analyzed at the start of every phase. Requirements like BSR (Business
+Requirements Specifications) and SRS(System Requirements
+Specifications) are gathered from this quadrant. Then alternative solutions
+possible for the phase are proposed in this quadrant.
+
+RISK ANALYSIS: During the second quadrant all the possible solutions are evaluated to select
+the best possible solution. Then the risks associated with that solution is
+identified and the risks are resolved using the best possible strategy. At the end
+of this quadrant, Prototype is built for the best possible solution.
+
+DEVELOPMENT and TESTING: During the third quadrant, the identified features are Developed and verified
+through Testing.
+
+EVALUATION: This phase allows the customer to evaluate the output of the project before the
+project continues to the nest spiral. Customer evaluate the software and provide
+their feedback and approval.
+In the end, planning for the next phase is started.
+
+When to use Spiral Model?
+
+1. When the project is large.
+2. Where the amount of risk is large.
+3. Where requirements are complicated.
+4. Where Software require significant changes.
+5. Where enough time frame is their.
+6. Where releases are required to be frequent.
+
+Advantages of Spiral Model:
+
+1. Best model for the risk analysis and risk handling.
+2. Good for large projects.
+3. Flexibility in Requirements.
+4. Customer Satisfaction.
+5. Software is produced Early.
+
+Disadvantages of Spiral Model:
+
+1. The Spiral Model is much more complex than other SDLC models.
+2. Spiral Model is not suitable for small projects as it is expensive.
+3. It’s Costly for smaller Projects.
+4. Difficulty in time management: As the number of phases is unknown at the start of the project, so time estimation is very difficult.
